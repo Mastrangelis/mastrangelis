@@ -57,5 +57,5 @@ A results-driven developer with a strong command of both front-end and server-si
 
 ## Connect with me:
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-mastrangelis/) <img src="https://github.com/user-attachments/assets/87e39707-f19d-4c54-a91e-5556e1eb877c" width="48" >
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-mastrangelis/) <a href="https://www.nikosmastragelis.dev/"><img src="https://github.com/user-attachments/assets/87e39707-f19d-4c54-a91e-5556e1eb877c" width="48" ></a>
 
