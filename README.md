@@ -18,7 +18,7 @@ A results-driven developer with a strong command of both front-end and server-si
 
 💬 Feel free to reach out and discuss anything related to coding and development.
 
-📫 You can contact me at sending an email [here](nikosmastragelis@gmail.com)
+📫 You can contact me at sending an email **nikosmastragelis@gmail.com**
 
 ## Things I code with
   
@@ -41,7 +41,7 @@ A results-driven developer with a strong command of both front-end and server-si
   ![Testing](https://skillicons.dev/icons?i=vitest,jest,cypress)
 
 - Tools </br></br>
-  ![Tools](https://skillicons.dev/icons?i=git,github,vscode,remix,linux,vite,firebase,npm,yarn,pnpm,postman,vercel)
+  ![Tools](https://skillicons.dev/icons?i=git,github,vscode,remix,linux,vite,firebase,npm,yarn,pnpm,postman,vercel,markdown)
 
 
 ## 🏆 Github Status
