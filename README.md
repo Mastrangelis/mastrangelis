@@ -1,3 +1,4 @@
+
 # Hey! Nice to see you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <p>Welcome to my page! </br> I'm Nikos, a passionate Fullstack developer from <img src="https://github.com/user-attachments/assets/eed9b48a-684f-4a2a-a6d5-74965fb9f462" width="13"/> <b>Athens, Greece</b>.
@@ -18,7 +19,7 @@ A results-driven developer with a strong command of both front-end and server-si
 
 💬 Feel free to reach out and discuss anything related to coding and development.
 
-📫 You can contact me at sending an email **nikosmastragelis@gmail.com**
+📫 You can contact me sending an email at **nikosmastragelis@gmail.com**
 
 ## Things I code with
   
@@ -46,14 +47,25 @@ A results-driven developer with a strong command of both front-end and server-si
 
 ## 🏆 Github Status
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=mastrangelis&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mastrangelis&theme=tokyonight" width="48%" height="210px">
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=mastrangelis&theme=react-dark" width="100%" align="center" >
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 20px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastrangelis&theme=tokyonight" alt="GitHub Profile Summary" style="width: 96%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mastrangelis&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="width: 96%;"/>
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 20px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mastrangelis&theme=tokyonight" alt="GitHub Stats" style="width: 48%;"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mastrangelis&theme=tokyonight" alt="GitHub Streak Stats" style="width: 48%;"/>
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 20px;" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mastrangelis&theme=tokyonight"  style="width: 48%;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mastrangelis&theme=tokyonight&utcOffset=2"  style="width: 48%;">
+  </div>
+</div>
 
+<!--START_SECTION:waka-->
 
-## 🌟 Most Used Weapons
+<!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mastrangelis&show_icons=true&locale=en&hide=scss&layout=compact&theme=tokyonight"  >
 
 ## Connect with me:
 
