@@ -15,7 +15,7 @@ A results-driven developer with a strong command of both front-end and server-si
 
 ☕ Coffee Lover: Can't start my day without an espresso.
 
-💻 Favourite Stack: Next.js, Tailwindcss, Typescript
+💻 Favourite Stack: Next.js, Tailwindcss, Typescript, Shadcn-ui, Zod, React-Hook-Form
 
 💬 Feel free to reach out and discuss anything related to coding and development.
 
