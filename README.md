@@ -56,10 +56,10 @@ A results-driven developer with a strong command of both front-end and server-si
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mastrangelis&theme=tokyonight" alt="GitHub Stats" style="width: 48%;"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mastrangelis&theme=tokyonight" alt="GitHub Streak Stats" style="width: 48%;"/>
   </div>
-  <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 20px;" align="center">
+<!--   <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 20px;" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mastrangelis&theme=tokyonight"  style="width: 48%;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mastrangelis&theme=tokyonight&utcOffset=2"  style="width: 48%;">
-  </div>
+  </div> -->
 </div>
 
 <!--START_SECTION:waka-->
